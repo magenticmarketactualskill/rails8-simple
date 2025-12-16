@@ -1,0 +1,4 @@
+Template Configuration: ✓ Found
+Git Repository: ✓ Found  
+Templated Folder: ✗ Not found (examples/rails/rails8-simple-templated)
+Template Configuration in Templated: N/A
